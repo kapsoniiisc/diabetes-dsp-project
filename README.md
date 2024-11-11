@@ -45,13 +45,20 @@ Create machine learning models to predict the likelihood of an individual develo
 Predicting diabetes using data science is a highly beneficial approach due to several compelling reasons. Diabetes is influenced by a complex interplay of various factors including genetics, lifestyle choices, dietary habits, physical activity levels, and environmental factors. Data science enables integrating and analysing these diverse datasets, providing a holistic understanding of the disease. Using data science to predict diabetes is a powerful approach that leverages advanced analytical techniques to understand the multifaceted nature of the disease. By identifying key risk factors, reducing biases, handling large datasets, and enabling early detection, data science provides valuable insights that can lead to more effective prevention and management strategies. Ultimately, this leads to better health outcomes, personalised care, and a more efficient healthcare system.
 
 Data Analysis and Exploration:
+
 Use statistical analysis and visualization techniques to explore the datasets and identify patterns, correlations, and trends related to diabetes indicators.
+
 Feature Engineering:
+
 Process and transform raw data into meaningful features that can be used in predictive models.
+
 Predictive Modeling:
+
 Apply a ppropriate machine learning algorithms, such as Logistic Regression,  to develop models that predict the likelihood of diabetes onset.
 Use techniques like cross-validation and hyperparameter tuning to optimi s e model performance.
+
 Model Evaluation:
+
 Evaluate the models using metrics to ensure they are reliable and robust.
 Interpret model outputs to understand the contribution of different features to the prediction.
 
