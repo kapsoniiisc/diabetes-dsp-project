@@ -1,1 +1,11 @@
-Need to add 
+## Python Libraries Used in this Project
+
+1. Pandas           - https://pandas.pydata.org/
+2. Numpy            - https://numpy.org/
+3. Matplotlib       - https://matplotlib.org/
+4. scikit-learn     - https://scikit-learn.org/stable/
+5. Seaborn          - https://seaborn.pydata.org/
+6. ydata_profiling  - https://pypi.org/project/ydata-profiling/
+7. Plotly           - https://plotly.com/python/
+8. SciPy            - https://scipy.org/
+
